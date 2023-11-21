@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-items {
+  background-color: #0f172a;
+  border-radius: 10px;
+  text-align: center;
+  padding: 30px;
+  margin-right: 27px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25vw;
+}
+.logo-size {
+  width: 150px;
+  height: 200px;
+}
+.first-innings {
+  width: 60%;
+  font-size: 20px;
+}
+.red-color {
+  color: #a4261d;
+}
+.green-color {
+  color: #d91c1f;
+}

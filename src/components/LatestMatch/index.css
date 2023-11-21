@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  border-radius: 10px;
+  width: 80%;
+  padding: 20px;
+  height: 90vh;
+}
+.logo {
+  width: 20vw;
+  height: 40vh;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+.image-container {
+  text-align: center;
+}
+.big-size {
+  font-size: 40px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  width: 50px;
+}
+.medium-size {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.small-size {
+  font-size: 15px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.right-container {
+  text-align: right;
+}
+.latest-paragraph {
+  color: #000000;
+}
